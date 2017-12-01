@@ -1,0 +1,9 @@
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\bin\Debug\Expense Manager.exe
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\bin\Debug\Expense Manager.pdb
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense Manager.csprojResolveAssemblyReference.cache
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense_Manager.enterd.resources
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense_Manager.Form1.resources
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense_Manager.Properties.Resources.resources
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense Manager.csproj.GenerateResource.Cache
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense Manager.exe
+D:\PRASHANTH (ONLY)\Using docs\Programming\C Sharp\Expense Manager\Expense Manager\obj\x86\Debug\Expense Manager.pdb
